@@ -18,6 +18,11 @@
 >> - [ **Click na foto** ].
 >>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu19)
 >
+>>> ## **Link do Addon Kodi 18 Leia**.
+>
+>> - [ **Click na foto** ].
+>>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu18)
+>
 >>> ## **Link do Canal**.
 >
 >> - [ **Click na foto** ].
