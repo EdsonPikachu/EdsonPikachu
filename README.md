@@ -16,7 +16,7 @@
 >>> ## **Link do Addon**.
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachumatrix)
+>>  [![Pikachu](https://pod.inrupt.com/pikachu12/public/AddonPikachu/Imagens/addon.png)](https://bit.ly/pikachu19)
 >
 >>> ## **Link do Canal**.
 >
