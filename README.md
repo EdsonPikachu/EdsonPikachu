@@ -8,6 +8,15 @@
 >> - Aqui Você Encontra o que à de melhor para seu [ **kodi** ].
 >> - Tambem fica atualizado de todo o conteúdo que sera lançado para a plataforma.
 >
+>>> ## **Menu De Links Pikachu Entretenimentos**.
+>
+[Grupo Telegram](https://t.me/+iD_hiIBwrVE3YmUx)
+[Pedidos No Telegram](https://t.me/addonpikachu)
+[Canal YouTube](https://bit.ly/pikatube)
+[Link Kodi](https://kodi.tv/)
+[Link Addon Pikachu Matrix-19](https://bit.ly/pikachumatrix19)
+[Link Addon Pikachu PlutoTv Matrix-19](https://t.me/c/1631928826/509)
+>
 >>> ## **Link do kodi**.
 >
 >> - [ **Click na foto** ].
@@ -16,35 +25,43 @@
 >>> ## **Link do Addon Kodi 19 Matrix**.
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitetv01)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitetv01)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitetv02)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitetv02)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitefilmes01)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitefilmes01)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitefilmes02)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitefilmes02)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusiteserie01)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusiteserie01)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusiteserie02)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusiteserie02)](https://bit.ly/pikachumatrix19)
 >
 >
 >> - [ **Click na foto** ].
->>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachu19)
+>>  [![Pikachu](https://bit.ly/pikachusitemenu)](https://bit.ly/pikachumatrix19)
+>
+>>> ## **Link do Grupo Telegram**.
+>
+>> - [ **Click na foto** ].
+>>  [![Gupo Telegram](https://bit.ly/pikachugrupotele)](https://t.me/+iD_hiIBwrVE3YmUx)
+>
+>> - [ **Click na foto** ].
+>>  [![Faça Pedios No Telegram](https://bit.ly/pikachugrupotele)](https://bit.ly/pikachupedidostele)
 >
 >>> ## **Link do Canal**.
 >
