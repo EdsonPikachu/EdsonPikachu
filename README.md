@@ -17,6 +17,12 @@
 [Link Addon Pikachu Matrix-19](https://bit.ly/pikachumatrix19)
 [Link Addon Pikachu PlutoTv Matrix-19](https://t.me/c/1631928826/509)
 >
+>>> ## **Faça Sua Doacão Para Manrter O Projeto**.
+>
+>>  [![Pix](https://bit.ly/pikachupixdoacao)](https://t.me/c/1631928826/294)
+>
+>>  [![Paypal](https://bit.ly/pikachupaypaldoacao)](https://www.paypal.com/donate/?hosted_button_id=VHL3SJP5DYFAE)
+>
 >>> ## **Link do kodi**.
 >
 >> - [ **Click na foto** ].
