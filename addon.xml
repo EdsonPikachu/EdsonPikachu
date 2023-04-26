@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<channels><channel>
-<name>[B][COLOR goldenrod]PIKACHU [COLOR forestgreen]TV [COLOR goldenrod]VIP[/COLOR][/B]</name>
+<channels>
+
+<channel>
+<name>[B][COLOR goldenrod]CONTATO [COLOR forestgreen](85) 9 9856-5875 [COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR][/B]</name>
+<link>https://0.0.0</link>
+<thumbnail>https://i.imgur.com/Te7i5mQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/Te7i5mQ.jpg</fanart>
+<genre>[COLOR gray]®Pikachu®, 15 27/09/2021 (GB) Terror, Fantasia, História, Ação 1h 32m[/COLOR]</genre>
+<info>[B][COLOR goldenrod]SINOPSE[COLOR gray]:[/COLOR][/B][COLOR forestgreen]Venha ser VIP. E desfrute do melhor serviço de stream do momento![COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR]</info>
+</channel>
+
+<channel>
+<name>[B][COLOR goldenrod]PIKACHU [COLOR forestgreen]TV [COLOR goldenrod]VIP [COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR][/B]</name>
 <externallink>http://vdk10.life/get.php?username=707974210&password=191918554&type=m3u_plus&output=ts</externallink>
 <thumbnail>https://i.imgur.com/lOnHDqG.jpg</thumbnail>
 <fanart>https://i.imgur.com/WQNErVg.jpg</fanart>
 <info>[COLOR white]* Bem vindo ao addon [COLOR goldenrod]PIKACHU [COLOR foretgreen]TV [COLOR goldenrod]VIP. [/COLOR]</info>
-</channel></channels>
+</channel>
+
+<channel>
+<name>[B][COLOR goldenrod]LANÇAMENTOS [COLOR forestgreen]2023 [COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/EdsonPikachu/EdsonPikachu/main/itemassistente.xml</link>
+<thumbnail>https://i.imgur.com/Te7i5mQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/Te7i5mQ.jpg</fanart>
+<genre>[COLOR gray]®Pikachu®, 15 27/09/2021 (GB) Terror, Fantasia, História, Ação 1h 32m[/COLOR]</genre>
+<info>[B][COLOR goldenrod]SINOPSE[COLOR gray]:[/COLOR][/B][COLOR forestgreen]Venha ser VIP. E desfrute do melhor serviço de stream do momento![COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR]</info>
+</channel>
+ 
+
+</channels>
