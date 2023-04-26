@@ -20,7 +20,7 @@
 
 <channel>
 <name>[B][COLOR goldenrod]FILMES [COLOR forestgreen]LANÇAMENTOS 2023 [COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/EdsonPikachu/EdsonPikachu/main/Filmes.xml</link>
+<externallink>https://raw.githubusercontent.com/EdsonPikachu/EdsonPikachu/main/Filmes.xml</externallink>
 <thumbnail>https://i.imgur.com/Te7i5mQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/Te7i5mQ.jpg</fanart>
 <genre>[COLOR gray]®Pikachu®, 15 27/09/2021 (GB) Terror, Fantasia, História, Ação 1h 32m[/COLOR]</genre>
@@ -29,7 +29,7 @@
  
 <channel>
 <name>[B][COLOR goldenrod]SÉRIES [COLOR forestgreen]LANÇAMENTOS 2023 [COLOR gray]®[COLOR goldenrod]Pikachu[COLOR gray]®[/COLOR][/B]</name>
-<link>https://raw.githubusercontent.com/EdsonPikachu/EdsonPikachu/main/itemassistente.xml</link>
+<externallink>https://raw.githubusercontent.com/EdsonPikachu/EdsonPikachu/main/S%C3%A9ries.xml</externallink>
 <thumbnail>https://i.imgur.com/Te7i5mQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/Te7i5mQ.jpg</fanart>
 <genre>[COLOR gray]®Pikachu®, 15 27/09/2021 (GB) Terror, Fantasia, História, Ação 1h 32m[/COLOR]</genre>
